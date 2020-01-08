@@ -100,3 +100,15 @@ python train.py --extconf ../confs/iclrexps/sst-daily_4nn_42_250sample/GraphPDE_
 ### Summary of Results
 
 You can use `results/print_results.ipynb` to print tables of experiment results, including the mean value and the standard error of mean absolution error (MAE) of prediction tasks.
+
+## Reference
+
+```
+@inproceedings{seo*2020physicsaware,
+title={Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics},
+author={Sungyong Seo* and Chuizheng Meng* and Yan Liu},
+booktitle={International Conference on Learning Representations},
+year={2020},
+url={https://openreview.net/forum?id=r1gelyrtwH}
+}
+```
