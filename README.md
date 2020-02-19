@@ -2,7 +2,7 @@
 
 This repository is the official PyTorch implementation of "Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics".
 
-![Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](figures/model.jpg "Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics")
+![Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](model.jpg "Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics")
 
 Sungyong Seo*, Chuizheng Meng*, Yan Liu, [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://openreview.net/forum?id=r1gelyrtwH), ICLR 2020.
 
